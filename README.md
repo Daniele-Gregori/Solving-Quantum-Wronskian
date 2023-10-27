@@ -1,2 +1,4 @@
-# Asymptotic_Quantum_Wronskian
-Boundary condition for the quantum Wronskian, in terms of gauge periods.
+# Asymptotic-Quantum-Wronskian
+Boundary condition for the quantum Wronskian, the Baxter's Q functions, in terms of N=2 gauge prepotential.
+
+This code computes the asymptotic behaviour of Baxter's Q functions, defined as regularized integrals through Ordinary Differential Equations / Integrable Models (ODE/IM) correspondence. Then by mapping the ODE parameter u into the gauge period a (through Matone's relation), the Q functions get expressed in terms of gauge periods a,Subscript[A, D] and prepotential F , for  Subscript[N, f]==3 SU(2) Nekrasov-Shatashvili (NS) N==2 gauge theory. The asymptotic expansion is double, at leading order in gauge deformation parameter \[HBar]->0  and at second order O(Subsuperscript[\[CapitalLambda], 3, 2]) in instanton parameter Subscript[\[CapitalLambda], 3]->0 .  Our results from ODE/IM match perfectly analogue ones found previously through Alday-Gaiotto-Tachikawa (AGT) duality.
