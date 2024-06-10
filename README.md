@@ -1,6 +1,6 @@
 # Solving-Quantum-Wronskian
 
-Codes for solving the quantum Wronskian of Confluent Heun equation, in terms of N=2 supersymmetric SU(2) Nf=3 gauge prepotential.
+Codes for solving the quantum Wronskians of Confluent Heun equations, in terms of N=2 supersymmetric SU(2) gauge prepotential.
 
 (work in progress...)
 
